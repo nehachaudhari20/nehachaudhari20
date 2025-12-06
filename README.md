@@ -18,7 +18,7 @@
 <p>PostgreSQL · MySQL · MongoDB · Redis</p>
 
 <h4>Cloud & DevOps</h4>
-<p>AWS (EC2, S3, Lambda, Glue) · Git · GitHub · Postman</p>
+<p>AWS (EC2, S3, Lambda) · Git · GitHub</p>
 
 <h4>AI & ML</h4>
 <p>TensorFlow · PyTorch · CrewAI · LangGraph · MCP</p>
