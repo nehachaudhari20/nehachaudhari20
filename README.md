@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Chaudhari</h1>
-<h3 align="center">Currently expanding in AIMLs</h3>
+<h3 align="center">Currently expanding in AIML</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
