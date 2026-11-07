@@ -22,10 +22,10 @@
 <h4>AI & ML</h4>
 <p>TensorFlow · PyTorch · CrewAI · LangGraph · MCP</p>
 
-<h3 align="left">🔥 GitHub Streak Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nehachaudhari20&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehachaudhari20&theme=tokyonight" />
 </p>
 
 ---
@@ -33,5 +33,6 @@
 <h3 align="left">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/nehachaudhari20" alt="Neha's GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehachaudhari20&theme=tokyo-night" />
 </p>
+
